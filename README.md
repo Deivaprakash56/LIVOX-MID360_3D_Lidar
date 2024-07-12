@@ -47,7 +47,7 @@ For more details, visit the [Livox MID-360 Specs](https://www.livoxtech.com/mid-
 
 ## MID-360 Co-ordinates
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 * Cartesian Coordinates (x, y, z) 
     - Cartesian coordinates represent positions in a 3D space using three perpendicular axes
 * Spherical coordinates (r, θ, φ)
