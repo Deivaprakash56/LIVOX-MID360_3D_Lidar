@@ -88,7 +88,7 @@ git clone https://github.com/Livox-SDK/livox_ros_driver2.git
 > Be sure to clone the source code in a '[work_space]/src/' folder (as shown above), otherwise compilation errors will occur due to the compilation tool restriction.
 
 <div style="padding: 10px; border: 1px">
-     <code> Without the LIVOX SDK, we cannot run theros2_driver</code>.
+     <code> Without the LIVOX SDK, we cannot run the ros2_driver</code>.
 </div>
 
 ## Livox SDK installation: 
